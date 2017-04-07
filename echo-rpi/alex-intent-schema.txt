@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "status",
+          "type": "GPIO_CONTROL"
+        }
+      ],
+      "intent": "GPIOControlIntent"
+    }
+  ]
+}
