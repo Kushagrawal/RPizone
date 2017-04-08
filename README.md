@@ -8,5 +8,3 @@ Repository for source code and images for Raspberry Pi Projects.
    ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool
    Refer to [instructable](https://www.instructables.com/id/Control-Raspberry-Pi-GPIO-Using-Amazon-Echo-ngrok/) for detailed descrption.
    
-3. Controlling Raspberry Pi GPIO using Amazon Echo and Fauxmo.
-   This is to overcome the limitation of changing URL's for tunnel while using ngrok.
